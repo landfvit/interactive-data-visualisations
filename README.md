@@ -2,6 +2,20 @@
 
 A small localhost tool for CSV, TSV and JSON data. Files stay in your browser.
 
+## Screenshots
+
+Sales trend: narrow the date window and filter categories.
+
+![Sales trend with a date window and category filters](docs/images/overview.jpg)
+
+Category comparison: explore the sales mix with an interactive donut chart.
+
+![Sales category comparison in a donut chart](docs/images/categories.jpg)
+
+Function fit: inspect the fitted curve and its LaTeX equation.
+
+![Scatter chart with a fitted function and formatted equation](docs/images/fit.jpg)
+
 ## Run
 
 Requirements: Node.js 22.12 or newer; npm.
